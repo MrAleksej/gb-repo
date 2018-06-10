@@ -1,0 +1,2 @@
+var str="ќ ра»Ќа";
+console.log(str.replace(/[–р кЌн]/g,''));
