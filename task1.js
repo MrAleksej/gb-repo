@@ -1,2 +1,2 @@
-var str="ќ –ј»Ќјокраина";
-console.log(str.replace(/[–р кЌн]/g,''));
+var str="ќ –ј»Ќј окраина";
+console.log(str.replace(/[– Ќркн]/g,''));
