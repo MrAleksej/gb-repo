@@ -1,2 +1,2 @@
-var str="ОКРАИНА окраина";
-console.log(str.replace(/[РКНркн]/g,''));
+var str="РћРљР РђРРќРђРѕРєСЂР°РёРЅР°";
+console.log(str.replace(/[Р РљРќСЂРєРЅ]/g,''));
